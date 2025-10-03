@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "id": "mslearn",
+      "name": "Microsoft Learn MCP Server",
+      "manifest_url": "https://learn.microsoft.com/api/mcp/manifest.json",
+      "version": "1.0.0",
+      "latest": true
+    }
+  ]
+}

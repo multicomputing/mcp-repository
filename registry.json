@@ -3,9 +3,31 @@
     {
       "id": "mslearn",
       "name": "Microsoft Learn MCP Server",
+      "description": "Official Microsoft Docs search and code samples",
       "manifest_url": "https://learn.microsoft.com/api/mcp/manifest.json",
+      "categories": ["documentation", "microsoft"],
+      "version": "1.0.0",
+      "latest": true
+    },
+    {
+      "id": "playwright-mcp",
+      "name": "Playwright MCP Server",
+      "description": "Automate browser testing with Playwright MCP",
+      "manifest_url": "https://raw.githubusercontent.com/mcp/microsoft/playwright-mcp/main/server.json",
+      "categories": ["testing", "automation", "browser"],
+      "version": "1.0.0",
+      "latest": true
+    },
+    {
+      "id": "markitdown",
+      "name": "MarkItDown MCP Server",
+      "description": "Convert documents to Markdown using MarkItDown MCP",
+      "manifest_url": "https://raw.githubusercontent.com/mcp/microsoft/markitdown/main/server.json",
+      "categories": ["conversion", "markdown", "documents"],
       "version": "1.0.0",
       "latest": true
     }
-  ]
+  ],
+  "total_count": 3,
+  "updated_at": "2025-10-04T00:00:00Z"
 }

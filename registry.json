@@ -13,21 +13,12 @@
       "id": "playwright-mcp",
       "name": "Playwright MCP Server",
       "description": "Automate browser testing with Playwright MCP",
-      "manifest_url": "https://raw.githubusercontent.com/mcp/microsoft/playwright-mcp/main/server.json",
+      "manifest_url": "https://raw.githubusercontent.com/microsoft/playwright-mcp/main/extension/manifest.json",
       "categories": ["testing", "automation", "browser"],
-      "version": "1.0.0",
-      "latest": true
-    },
-    {
-      "id": "markitdown",
-      "name": "MarkItDown MCP Server",
-      "description": "Convert documents to Markdown using MarkItDown MCP",
-      "manifest_url": "https://raw.githubusercontent.com/mcp/microsoft/markitdown/main/server.json",
-      "categories": ["conversion", "markdown", "documents"],
       "version": "1.0.0",
       "latest": true
     }
   ],
-  "total_count": 3,
+  "total_count": 2,
   "updated_at": "2025-10-04T00:00:00Z"
 }

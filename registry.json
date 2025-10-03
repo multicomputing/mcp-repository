@@ -8,17 +8,8 @@
       "categories": ["documentation", "microsoft"],
       "version": "1.0.0",
       "latest": true
-    },
-    {
-      "id": "playwright-mcp",
-      "name": "Playwright MCP Server",
-      "description": "Automate browser testing with Playwright MCP",
-      "manifest_url": "https://raw.githubusercontent.com/microsoft/playwright-mcp/main/extension/manifest.json",
-      "categories": ["testing", "automation", "browser"],
-      "version": "1.0.0",
-      "latest": true
     }
   ],
-  "total_count": 2,
+  "total_count": 1,
   "updated_at": "2025-10-04T00:00:00Z"
 }

@@ -4,7 +4,7 @@
       "id": "microsoft.docs.mcp",
       "name": "Microsoft Learn MCP Server",
       "description": "Official Microsoft Docs search and code samples",
-      "manifest_url": "https://multicomputing.github.io/mcp-repository/learn-manifest.json",
+      "manifest_url": "https://learn.microsoft.com/api/mcp",
       "categories": ["documentation", "microsoft"],
       "version": "1.0.0",
       "latest": true

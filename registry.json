@@ -1,7 +1,8 @@
+
 {
   "servers": [
     {
-      "id": "mslearn",
+      "id": "microsoft.docs.mcp",
       "name": "Microsoft Learn MCP Server",
       "description": "Official Microsoft Docs search and code samples",
       "manifest_url": "https://learn.microsoft.com/api/mcp",
